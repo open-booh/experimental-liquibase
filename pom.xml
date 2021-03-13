@@ -11,6 +11,8 @@
     <packaging>pom</packaging>
 
     <modules>
+        <!-- Приложение, использующее стартер -->
+        <module>application</module>
         <!-- Библиотека-стартер со скриптами миграции -->
         <module>library-starter</module>
     </modules>
