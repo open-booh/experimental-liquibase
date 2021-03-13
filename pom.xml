@@ -10,4 +10,8 @@
 
     <packaging>pom</packaging>
 
+    <modules>
+        <!-- Библиотека-стартер со скриптами миграции -->
+        <module>library-starter</module>
+    </modules>
 </project>
