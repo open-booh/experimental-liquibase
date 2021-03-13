@@ -26,6 +26,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
+        <!-- Зависимость первого стартера -->
+        <dependency>
+            <groupId>ru.open4.experimental.liquibase</groupId>
+            <artifactId>library-starter</artifactId>
+            <version>0.0.1</version>
+        </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>

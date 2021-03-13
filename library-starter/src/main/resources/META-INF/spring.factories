@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ru.open4.experimental.liquibase.first.FirstLibraryAutoConfiguration
