@@ -1,0 +1,6 @@
+# Changelog приложения - добавляет собственные сущности
+databaseChangeLog:
+  - include:
+      file: db/changelog/001-create-app-person.sql
+  - include:
+      file: db/changelog/002-insert-app-person.sql
